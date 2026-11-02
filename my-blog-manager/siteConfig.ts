@@ -1,13 +1,13 @@
 // Site settings managed by the local CMS.
 export const siteConfig = {
   "title": "Lyra 的博客",
-  "faviconUrl": "/images/sakiko.webp",
+  "faviconUrl": "/images/anon-avatar.webp",
   "authorName": "Lyra Selene",
   "bio": "记录学习的过程，留下实践的痕迹。关于代码、思考与创造。",
   "navTitle": "Lyra",
   "navSuffix": "の",
   "navAfter": "小小世界",
-  "avatarUrl": "/images/sakiko.webp",
+  "avatarUrl": "/images/anon-avatar.webp",
   "useGradient": false,
   "themeColors": [
     "#a18cd1",
@@ -16,7 +16,7 @@ export const siteConfig = {
     "#c2e9fb"
   ],
   "bgImages": [
-    "/images/theatre-background.webp"
+    "/images/anon-background.webp"
   ],
   "defaultPostCover": "/images/theatre-background.webp",
   "photoWallImage": "/images/theatre-background.webp",
@@ -83,6 +83,6 @@ export const siteConfig = {
     "maxOutputTokens": 150,
     "temperature": 0.85
   },
-  "friendLinkApplyFormat": "名称：Lyra 的博客\n简介：记录学习，也收藏生活。\n链接：上线后填写\n头像：/images/sakiko.webp",
+  "friendLinkApplyFormat": "名称：Lyra 的博客\n简介：记录学习，也收藏生活。\n链接：上线后填写\n头像：/images/anon-avatar.webp",
   "enableLevelSystem": false
 };

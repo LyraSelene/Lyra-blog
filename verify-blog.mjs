@@ -21,7 +21,7 @@ checks.push('CMS API 在线');
 const config = await get('/api/config/get');
 assert.equal(config.success, true);
 assert.equal(config.data.authorName, 'Lyra Selene');
-assert.deepEqual(config.data.bgImages, ['/images/theatre-background.webp']);
+assert.deepEqual(config.data.bgImages, ['/images/anon-background.webp']);
 assert.equal(config.data.cloudMusicIds.length, 3);
 checks.push('CMS 完整读取个人资料、背景数组、音乐数组');
 assert.equal((await post('/api/config/update', { updates: { bio: config.data.bio } })).success, true);
