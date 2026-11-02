@@ -3,7 +3,7 @@ title: 关于我
 date: '2026-11-02'
 tags: []
 mood: ''
-cover: /images/theatre-background.webp
+cover: /images/anon-background.webp
 description: 记录学习，也收藏生活。
 ---
 

@@ -18,8 +18,8 @@ export const siteConfig = {
   "bgImages": [
     "/images/anon-background.webp"
   ],
-  "defaultPostCover": "/images/theatre-background.webp",
-  "photoWallImage": "/images/theatre-background.webp",
+  "defaultPostCover": "/images/anon-background.webp",
+  "photoWallImage": "/images/anon-background.webp",
   "cloudMusicIds": [
     "1809646618",
     "3361076230",

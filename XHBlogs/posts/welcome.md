@@ -2,7 +2,7 @@
 title: "你好，这里是 Lyra 的博客"
 date: "2026-11-02 17:00:00"
 description: "博客已经准备好。从这里开始，记录学习、代码与日常。"
-cover: "/images/theatre-background.webp"
+cover: "/images/anon-background.webp"
 tags: ["建站记录"]
 ---
 
