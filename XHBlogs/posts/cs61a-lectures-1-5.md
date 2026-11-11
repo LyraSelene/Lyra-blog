@@ -1,6 +1,6 @@
 ---
 title: "CS61A 前五讲笔记：看懂了，但怎么还是写不出来"
-date: "2026-11-11 21:30:00"
+date: "2026-11-11 16:38:00"
 description: "从漏写 NOISY 后面的数字，到慢慢分清函数和返回值。记一下 CS61A 前五讲里卡过的地方，还有现在的理解。"
 cover: "/images/anon-background.webp"
 tags: ["CS61A", "Python", "学习笔记"]
